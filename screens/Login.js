@@ -72,5 +72,3 @@ const styles = StyleSheet.create({
 });
 
 export default TelaLogin;
-
-//acho que preciso exportar 
